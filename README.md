@@ -1,2 +1,4 @@
 # BS4_Spider
 BS4提取
+利用select爬取酷狗TOP500(GuGe_Spider_select)
+利用find_all爬取酷狗TOP500(GuGe_Spider_Findall)
